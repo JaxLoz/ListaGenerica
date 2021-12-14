@@ -1,4 +1,7 @@
 
+import javax.swing.JOptionPane;
+
+
  // @author javier
  
 public class ListasGenericas {
@@ -8,7 +11,9 @@ public class ListasGenericas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hola mundo");
+        
+        String name = JOptionPane.showInputDialog(null,"ingresa tu nombre"); 
+        System.out.println("Hola " + name);
     }
     
 }
