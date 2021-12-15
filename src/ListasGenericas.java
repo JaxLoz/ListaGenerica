@@ -14,6 +14,17 @@ public class ListasGenericas {
         
         String name = JOptionPane.showInputDialog(null,"ingresa tu nombre"); 
         System.out.println("Hola " + name);
+        
+        System.out.println("hola mundo otra vez");
+        System.out.println("hola munfo oooootra vez");
+        
+        System.out.println("hola");
+        
+        System.out.println("hola v2");
+        
+        
+        
+        
     }
     
 }
