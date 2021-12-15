@@ -20,6 +20,8 @@ public class ListasGenericas {
         
         System.out.println("hola");
         
+        System.out.println("hola v2");
+        
         
         
         
