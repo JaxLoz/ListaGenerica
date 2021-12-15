@@ -17,6 +17,12 @@ public class ListasGenericas {
         
         System.out.println("hola mundo otra vez");
         System.out.println("hola munfo oooootra vez");
+        
+        System.out.println("hola");
+        
+        
+        
+        
     }
     
 }
